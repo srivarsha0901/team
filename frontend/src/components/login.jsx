@@ -10,7 +10,6 @@ Login Page from Varsha
     <p>I am Varsha</p>
     <p>Welcome to the login page!</p>
     <p>Please enter your credentials to log in.</p>
-    
     </div>
   )
 }
